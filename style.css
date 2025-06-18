@@ -69,7 +69,8 @@ body {
 }
 
 #score {
-    color: #abb78a;
+/*     color: #abb78a; */
+    color: #d8ddca; /*new color*/
 }
 
 #score, #highScore {
